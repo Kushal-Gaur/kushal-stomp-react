@@ -1,0 +1,9 @@
+/* This css file is included by being imported in index.js */
+
+ .fex {
+    height: 100%;
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
